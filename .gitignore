@@ -1,0 +1,9 @@
+# ignore all MATLAB drive staff
+.MATLABDrive*
+
+# ignore pycache and compiled staff created from local python runs
+__pycache__/
+*.py[cod]
+
+# ignore intellij configs
+.idea/
